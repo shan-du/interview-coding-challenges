@@ -1,0 +1,61 @@
+body * {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 20px auto;
+  font: 14px/1.2 Helvetica, Arial, sans-serif;
+}
+
+section {
+  margin: 0 30px 30px 30px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px silver;
+}
+
+section > h2 {
+  margin: 0 0 20px;
+  font-size: 1.4em;
+}
+
+section > h2::first-letter {
+  font-size: 1.8em;
+  color: crimson;
+}
+
+section > .example {
+  margin: 20px 30px;
+  font: italic 1.2em;
+}
+
+.example h3 {
+  margin: 10px 0 5px;
+}
+
+.example pre {
+  padding: 10px;
+  border: 1px solid orange;
+  border-radius: 10px;
+  color: lime;
+  background-color: #333;
+}
+
+section > .solution-link {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #38B;
+  border-radius: 5px;
+  color: #38B;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #EEF;
+  box-shadow: 2px 2px 2px silver;
+}
+
+section > .solution-link:hover {
+  background-color: #FFF;
+  box-shadow: none;
+}
