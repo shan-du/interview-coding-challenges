@@ -5,6 +5,9 @@ Trying to sharpen my coding skills, I felt that the best and **most practical** 
 
 ### I've compiled a list of the challenges that I've gone thru here: `src/index.html`
 ### Of course the solutions are also available in my [Codepen](http://codepen.io/collection/DPGyrg/#)
+
+**NOTE: I know that my solutions MAY NOT be the best, if you have suggestions for improvements, please by all means drop me a message.**
+
 1. Given two identical (but not the same) DOM trees, and a node from one of them, how do you find the same node in from other tree?
 2. How do you deeply flatten an array, recursively & iteratively?
 3. Given a M x N matrix of characters, we want a message that starts from character at (0, 0).
