@@ -3,9 +3,7 @@ Trying to sharpen my coding skills, I felt that the best and **most practical** 
 
 **NOTE: I know that my solutions MAY NOT be the best, if you have suggestions for improvements, please by all means drop me a message or add them to the repo directly.**
 
-Compiled a list here: `solutions/index.html`
-
-Solutions are also available in my [Codepen](http://codepen.io/collection/DPGyrg/#)
+[Compiled List with Solutions (in Codepen) Here](https://shan-du.github.io/interview-coding-challenges/solutions/)
 
 ## Questions:
 1. Given two identical (but not the same) DOM trees, and a node from one of them, how do you find the same node in from other tree?
