@@ -4,14 +4,19 @@ body * {
 }
 
 body {
-  margin: 20px auto;
+  padding: 10px;
   font: 14px/1.2 Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  margin: 20px auto;
+  text-align: center;
 }
 
 section {
   margin: 0 30px 30px 30px;
   padding: 20px;
-  border: 1px solid black;
+  border: 1px solid #38B;
   border-radius: 20px;
   box-shadow: 2px 2px 2px silver;
 }
@@ -38,7 +43,7 @@ section > .example {
 .example pre {
   padding: 10px;
   border: 1px solid orange;
-  border-radius: 10px;
+  border-radius: 5px;
   color: lime;
   background-color: #333;
 }
