@@ -28,6 +28,10 @@ section > h2 {
 
 section > h2::first-letter {
   font-size: 1.8em;
+  color: #38B;
+}
+
+section > h2:first-child::first-letter {
   color: crimson;
 }
 
@@ -48,6 +52,7 @@ section > .example {
   background-color: #333;
 }
 
+/*
 section > .solution-link {
   display: inline-block;
   padding: 10px;
@@ -64,3 +69,4 @@ section > .solution-link:hover {
   background-color: #FFF;
   box-shadow: none;
 }
+*/
