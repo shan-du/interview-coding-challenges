@@ -35,6 +35,11 @@ section > h2:first-child::first-letter {
   color: crimson;
 }
 
+section > h2 ul {
+  margin: 15px 30px;
+  font-size: 0.9em;
+}
+
 section > .example {
   margin: 20px 30px;
   font: italic 1.2em;
